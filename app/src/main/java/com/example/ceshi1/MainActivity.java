@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
     ImageView imgS;
     private AlertDialog alertDialog;
     private File tempFile;
-    //相册请求码
+    //相册请求码git
+    //大大大大555
     private static final int ALBUM_REQUEST_CODE = 1;
     //相机请求码
     private static final int CAMERA_REQUEST_CODE = 2;
