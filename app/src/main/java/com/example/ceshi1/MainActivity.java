@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     //相册请求码git
     //大大大大555
     //天同
+    //大哥
     private static final int ALBUM_REQUEST_CODE = 1;
     //相机请求码
     private static final int CAMERA_REQUEST_CODE = 2;
